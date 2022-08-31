@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "24.3",
+    "versionCode": "24300",
+    "link": "https://raw.kgithub.com/topjohnwu/magisk-files/51c0843433aa90de75eafbe4e441a00ef94c5cb4/app-release.apk",
+    "note": "https://raw.kgithub.com/topjohnwu/magisk-files/51c0843433aa90de75eafbe4e441a00ef94c5cb4/notes.md"
+  },
+  "stub": {
+    "versionCode": "25200",
+    "link": "https://raw.kgithub.com/topjohnwu/magisk-files/51c0843433aa90de75eafbe4e441a00ef94c5cb4/stub-release.apk"
+  }
+}
